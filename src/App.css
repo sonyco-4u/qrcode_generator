@@ -21,11 +21,15 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(126, 10, 10);
 }
 
 .App-link {
   color: #61dafb;
+}
+
+h2 {
+  background-color: #f0f1f3;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +39,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.company-logo {
+  width: 120px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.footer-text {
+  margin-top: 30px;
+  font-size: 14px;
+  color: #555;
 }
