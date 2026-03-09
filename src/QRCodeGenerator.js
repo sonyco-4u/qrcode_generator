@@ -35,7 +35,7 @@ const QRCodeGenerator = () => {
 
   return (
     <div style={styles.container}>
-      <h2>Evoteck QR Code Generator</h2>
+      <h2>Follow the Instructions Below</h2>
 
       <div style={styles.controls}>
         <label style={styles.label}>1. Enter URL</label>
