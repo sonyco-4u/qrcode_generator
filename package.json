@@ -2,7 +2,7 @@
 {
   "name": "qrcode_generator",
   "version": "0.1.0",
-  "homepage": "https://sonyco-4u.github.io/qrcode_generator",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "qrcode.react": "^4.2.0",
